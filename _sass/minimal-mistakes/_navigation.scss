@@ -569,3 +569,18 @@
     padding-inline-start: 3.25rem;
   }
 }
+
+/* Left align navigation tabs */
+.greedy-nav {
+  justify-content: flex-start !important;
+
+  .visible-links {
+    margin-left: 2rem !important;
+    margin-right: auto !important;
+    justify-content: flex-start !important;
+
+    li:first-child {
+      margin-left: 0 !important;
+    }
+  }
+}
