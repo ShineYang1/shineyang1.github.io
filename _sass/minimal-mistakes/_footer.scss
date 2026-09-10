@@ -49,13 +49,7 @@
   font-size: $type-size-7;
 }
 
+/* Hide the footer follow section */
 .page__footer-follow {
   display: none !important;
-}
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
 }
