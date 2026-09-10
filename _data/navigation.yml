@@ -4,6 +4,11 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Miscellaneous"
      url: /misc/
+     
+  # sidebar sub-navigation for the Miscellaneous section
+misc:
+  - title: "Collections of Haiku in Mandarin"
+    url: /misc/haikus/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
