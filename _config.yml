@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name: "Guangqian (Shine) Yang<br>杨光潜"
-  avatar: "/assets/avatar.jfif" # upload an image to assets/images/
+  avatar: "/assets/avatar.jfif"
   bio: '<span style="font-size: 0.8rem;">| Amateur Development Economist | Wannabe World Changer | Full-time Human Being |</span>'
   location: "Evanston, IL"
   links:
