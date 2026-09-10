@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-<div style="font-size: 0.75rem; line-height: 1.8;">
+<div markdown="1" style="font-size: 0.75rem; line-height: 1.8;">
 
 ### <span style="font-size: 0.85rem; color: #666; font-weight: normal;">10th Sept, 2026</span>
 <br>
