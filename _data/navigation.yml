@@ -1,17 +1,11 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Miscellaneous"
-     url: /misc/
-     
-  # sidebar sub-navigation for the Miscellaneous section
+    url: /misc/
+
+# sidebar links
 misc:
+  - title: "Overview"
+    url: /misc/
   - title: "Collections of Haiku in Mandarin"
     url: /misc/haikus/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
