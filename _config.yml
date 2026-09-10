@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : Personal Website
 name                     : "Guangqian (Shine) Yang - 杨光潜"
 description              : "Research Analyst at Global Poverty Research Lab, Northwestern University Kellogg School of Management"
-url                      : "shineyang1.github.io"
+url                      : "https://shineyang1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -116,7 +116,7 @@ analytics:
 author:
   name: "Guangqian (Shine) Yang - 杨光潜"
   avatar: "/assets/avatar.jfif" # upload an image to assets/images/
-  # bio: "Develo"
+  bio: "Amateur Development Economist | Wannabe World Changer | Full-time Human Being "
   location: "Evanston, IL"
   links:
     - label: "GitHub"
