@@ -116,13 +116,13 @@ analytics:
 author:
   name: "Guangqian (Shine) Yang<br>杨光潜"
   avatar: "/assets/avatar.jfif"
-  bio: '<div style="font-size: 0.65rem !important; line-height: 1.4;">Amateur Development Economist<br>Wannabe Welfare Maximiser<br>Curious Human Being</div>'
+  bio: '<div style="font-size: 0.65rem !important; line-height: 1.4;">Amateur Development Economist<br>Wannabe World Changer<br>Full-time Human Being</div>'
   location: "Evanston, IL"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ShineYang1"
-   - label: "GitHub (Work)"
+    - label: "GitHub (Work)"
       icon: "fab fa-fw fa-github-alt"
       url: "https://github.com/Shineyang03"
     - label: "Email"
