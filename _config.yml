@@ -116,7 +116,8 @@ analytics:
 author:
   name: "Guangqian (Shine) Yang<br>杨光潜"
   avatar: "/assets/avatar.jfif"
-  bio: '<span style="font-size: 0.6rem;"> Amateur Development Economist <br> Wannabe World Changer <br> Full-time Human Being </span>'
+bio: >-
+    <span style="font-size: 0.65rem; line-height: 1.4; display: block;">Amateur Development Economist<br>Wannabe World Changer<br>Full-time Human Being</span>
   location: "Evanston, IL"
   links:
     - label: "GitHub"
