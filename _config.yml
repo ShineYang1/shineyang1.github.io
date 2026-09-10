@@ -114,8 +114,8 @@ analytics:
 
 # Site Author
 author:
-  name: "Shine Yang"
-  avatar: "/assets/images/bio-photo.jpg" # upload an image to assets/images/
+  name: ""Guangqian (Shine) Yang - 杨光潜"
+  avatar: "/assets/avatar.jfif" # upload an image to assets/images/
   # bio: "Develo"
   location: "Evanston, IL"
   links:
