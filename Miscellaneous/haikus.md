@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 ---
 
-<div style="font-size: 1.15rem; line-height: 1.8;">
+<div style="font-size: 0.8rem; line-height: 1.8;">
 
-### 10th Sept, 2026
+### <span style="font-size: 0.95rem; color: #666; font-weight: normal;">10th Sept, 2026</span>
 
 **一**  
 青春结束了，<br>
