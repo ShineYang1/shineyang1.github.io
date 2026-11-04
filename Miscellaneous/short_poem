@@ -1,7 +1,21 @@
-A warm winter,
-rainy summer,
-Snowy nights,
-And green butterflies. 
+---
+title: "Short Poem"
+permalink: /misc/short_poem/
+layout: single
+author_profile: true
+---
 
-Lament. 
-For life is going to end.
+<div markdown="1" style="font-size: 0.75rem; line-height: 1.8;">
+
+### <span style="font-size: 0.8rem; color: #777; font-weight: lighter;">3rd Nov, 2026</span>
+
+
+<br>
+
+A warm winter,<br>
+rainy summer,<br>
+Snowy nights,<br>
+And green butterflies. <br>
+<br>
+Lament. <br>
+For life is going to end.<br>
