@@ -11,4 +11,5 @@ author_profile: true
 
 ---
 
-* [Collections of Haiku in Mandarin](/misc/haikus/)
+* [Collection of Haikus in Mandarin](/misc/haikus/)
+* [Short Poem](/misc/short_poem)
