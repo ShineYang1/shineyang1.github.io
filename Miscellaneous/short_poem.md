@@ -14,8 +14,8 @@ author_profile: true
 
 A warm winter,<br>
 rainy summer,<br>
-Snowy nights,<br>
-And green butterflies. <br>
+snowy nights,<br>
+and green butterflies. <br>
 <br>
 Lament. <br>
 For life is going to end.<br>
